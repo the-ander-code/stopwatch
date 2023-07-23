@@ -1,0 +1,24 @@
+footer{
+    height:9rem;
+    /* border: 1px solid pink; */
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.footer-text{
+    opacity:0.5;
+}
+
+.footer-link{
+    padding-left: .2rem;
+    opacity:0.5;
+}
+.footer-link:hover{
+    opacity:1;
+}
+
+.footer-text-div{
+    display: flex;
+}
