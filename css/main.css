@@ -3,9 +3,9 @@
     :root{
         font-size: 16px;
 
-        --clr-bcg:#222;
-        --clr-font:#111;
-        --clr-cont:#f5f5f5;
+        --clr-bcg:#ceb3b3;
+        --clr-font:#d41f1f;
+        --clr-cont:#bd1010;
         --clr-acc:rgba(34, 112, 5, 0.6);
         --clr-acc-hov:#014a19;
         
@@ -48,7 +48,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border: 1px blue solid;
+    border: 1px rgb(145, 255, 0) solid;
     height: 18rem;
     width: 28rem;
     padding: 10rem;
