@@ -6,8 +6,8 @@
         --clr-bcg:#222;
         --clr-font:#111;
         --clr-cont:#f5f5f5;
-        --clr-acc:#4b057099;
-        --clr-acc-hov:#4b0570;
+        --clr-acc:rgba(34, 112, 5, 0.6);
+        --clr-acc-hov:#014a19;
         
         --font1:'Anybody', cursive;
         --font2:'Bitter', serif;
