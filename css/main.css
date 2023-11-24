@@ -3,11 +3,11 @@
     :root{
         font-size: 16px;
 
-        --clr-bcg:#0e0303;
-        --clr-font:#000000;
-        --clr-cont:#bd1010;
-        --clr-acc:rgba(34, 112, 5, 0.6);
-        --clr-acc-hov:#33bd61;
+        --clr-bcg:#c70eb7;
+        --clr-font:#c70e0e;
+        --clr-cont:#d8caca;
+        --clr-acc:rgba(61, 180, 18, 0.6);
+        --clr-acc-hov:rgb(51, 95, 189);
         
         
 
